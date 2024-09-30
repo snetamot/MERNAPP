@@ -1,2 +1,2 @@
 # MERNAPP
-MERN bookstore application
+MERN full stack bookstore application using MongoDB, Express, React, and Node
